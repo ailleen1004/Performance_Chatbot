@@ -15,3 +15,10 @@
 
  ### Big Data를 바탕으로 사용자에게 적합한 공연예술 통합 정보 전달
  공공 Data와 더불어 사용자와의 대화를 바탕으로 얻은 Big Data를 활용하여 공연예술에 대한 정확한 정보 전달
+
+
+## Test Video
+[![Video Label](http://img.youtube.com/vi/oWUrbXub3lE/3.jpg)](https://youtu.be/oWUrbXub3lE)
+<br>
+https://youtu.be/oWUrbXub3lE
+<br>
